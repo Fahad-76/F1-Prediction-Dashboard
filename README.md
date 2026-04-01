@@ -1,6 +1,6 @@
 # F1-Prediction-Dashboard
 
-A full-stack Next.js dashboard displaying ML-powered F1 race predictions, built on top of the [F1 ML Pipeline](https://github.com/Fahad-76/ml-f1-pipeline).
+A full-stack Next.js dashboard displaying ML-powered F1 race predictions, built on top of the [F1 ML Pipeline](https://github.com/Fahad-76/F1-Race-Predictor).
 
 ## Stack
 
